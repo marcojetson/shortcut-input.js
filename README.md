@@ -10,6 +10,10 @@ A JavaScript widget for configuring keyboard shortcuts
 var widget = new ShortcutInput(document.getElementById('my-shortcut-input'));
 ```
 
+### Demo
+
+https://jsfiddle.net/m4b9jnte/
+
 ### Events
 
 #### shortcutInput.change
